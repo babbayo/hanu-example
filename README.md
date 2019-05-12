@@ -33,7 +33,7 @@ Scaling dynos... done, now running worker at 1:Hobby
 ```
 
 ## etc
-what is HANU_EXAMPLE_SLACK_TOKEN ?
-https://api.slack.com/bot-users
-you can find it in your app's settings under Install App > Bot User OAuth Access Token.
-Bot user token strings begin with xoxb-
+### what is HANU_EXAMPLE_SLACK_TOKEN ?
+https://api.slack.com/bot-users    
+you can find it in your app's settings under Install App > Bot User OAuth Access Token.    
+Bot user token strings begin with xoxb-    
